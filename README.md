@@ -1,6 +1,6 @@
 # Summary
 
-Transactions system built using PHP Codeigniter3 framework, JQuery, Bootstrap 4, MySQL Database,  also, used SimpleXLSX excel sheet parser PHP plugin to parse excel records into transactions records to be inserted in the database,  Highcharts.js for showing statistical analysis. This system used to manage income/outcome resources for users in the system by date and category, viewing each category, its amount, and subtotal for both all incomes and outcomes for users.
+Transactions system built using PHP Codeigniter framework, JQuery, Bootstrap 4, MySQL Database,  also, used SimpleXLSX excel sheet parser PHP plugin to parse excel records into transactions records to be inserted in the database,  Highcharts.js for showing statistical analysis. This system used to manage income/outcome resources for users in the system by date and category, viewing each category, its amount, and subtotal for both all incomes and outcomes for users.
 
 # Notice
 
